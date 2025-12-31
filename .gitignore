@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+[Oo]bj/
+[Bb]in/
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# JetBrains
+.idea/
