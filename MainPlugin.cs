@@ -15,7 +15,7 @@ namespace SimpleDecalLoader
     {
         public const string ModGUID = "me.almana.simpledecal";
         public const string ModName = "SimpleDecalLoader";
-        public const string ModVersion = "1.0.0";
+        public const string ModVersion = "1.1.0";
         public const string ModAuthor = "AlmanaX21";
 
         internal static ManualLogSource Log;
