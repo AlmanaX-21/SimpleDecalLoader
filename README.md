@@ -1,6 +1,6 @@
 # SimpleDecalLoader
 
-A BepInEx plugin for Aviassembly that allows loading custom decals.
+A BepInEx plugin for Aviassembly that allows loading custom decals. Simply upload any image to load into the game.
 
 ## Features
 
