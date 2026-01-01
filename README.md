@@ -12,4 +12,5 @@ A BepInEx plugin for Aviassembly that allows loading custom decals. Simply uploa
 
 1. Install BepInEx for Aviassembly.
 2. Place `SimpleDecalLoader.dll` in the `BepInEx/plugins` folder.
-3. Create a `Decals` folder in `BepInEx/config` and add your PNG files.
+3. Launch the game once to allow `decals` folder to generate.
+4. Now you can put in any png image to load it into the game.
